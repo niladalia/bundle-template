@@ -1,10 +1,10 @@
 {
-  "name": "your-vendor/hello-world-bundle",
-  "description": "A simple Symfony bundle that says 'Hello, World!'", 
+  "name": "hello-bundle/hello-world-bundle",
+  "description": "A simple Symfony bundle that says 'Hello, World!'",
   "type": "symfony-bundle",
   "autoload": {
     "psr-4": {
-      "YourVendor\\HelloWorldBundle\\": "src/"
+      "HelloBundle\\HelloWorldBundle\\": "src/"
     }
   },
   "require": {
