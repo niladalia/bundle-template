@@ -1,6 +1,6 @@
 <?php
 
-namespace BundleTemplate;
+namespace TemplateBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

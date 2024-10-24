@@ -1,10 +1,11 @@
 <?php
-namespace BundleTemplate\Domain;
+
+namespace TemplateBundle\Domain;
 
 class HelloWorldService
 {
     public function sayHello(): string
     {
-        return "Hello World from the service!";
+        return "Hello World from the bundle template service!";
     }
 }

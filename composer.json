@@ -1,10 +1,10 @@
 {
-  "name": "hello-bundle/hello-world-bundle",
+  "name": "niladalia/template-bundle",
   "description": "A simple Symfony bundle that says 'Hello, World!'",
   "type": "symfony-bundle",
   "autoload": {
     "psr-4": {
-      "BundleTemplate\\": "src/"
+      "TemplateBundle\\": "src/"
     }
   },
   "require": {
