@@ -9,6 +9,5 @@ class HelloWorldBundle extends Bundle
     public function boot()
     {
         parent::boot();
-        echo "Hello World from HelloWorldBundle!\n";
     }
 }
