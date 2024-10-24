@@ -1,0 +1,19 @@
+{
+  "name": "your-vendor/hello-world-bundle",
+  "description": "A simple Symfony bundle that says 'Hello, World!'", 
+  "type": "symfony-bundle",
+  "autoload": {
+    "psr-4": {
+      "YourVendor\\HelloWorldBundle\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0",
+    "symfony/framework-bundle": "^5.0|^6.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-main": "1.x-dev"
+    }
+  }
+}
