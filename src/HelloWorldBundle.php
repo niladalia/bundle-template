@@ -1,6 +1,6 @@
 <?php
-// src/HelloWorldBundle.php
-namespace HelloBundle\HelloWorldBundle;
+
+namespace BundleTemplate;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

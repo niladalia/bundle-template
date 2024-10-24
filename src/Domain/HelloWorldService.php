@@ -1,5 +1,5 @@
 <?php
-namespace HelloBundle\HelloWorldBundle\Domain;
+namespace BundleTemplate\Domain;
 
 class HelloWorldService
 {
