@@ -9,3 +9,4 @@ services:
     environment:
       APP_ENV: dev
       SYMFONY_DEPRECATIONS_HELPER: weak
+    command: bash -c "composer install && php-fpm"
